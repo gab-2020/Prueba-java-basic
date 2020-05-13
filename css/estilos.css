@@ -1,0 +1,13 @@
+body, main{
+    height: 100vh;
+}
+h1{
+    font-size: 5rem;
+    font-weight: bolder;
+    font-family: sans-serif;
+}
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
